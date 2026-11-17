@@ -31,7 +31,7 @@ El eje izquierda-derecha simplifica la política española y no recoge el eje te
 Los guiones los redacta una inteligencia artificial a partir de los titulares y descripciones, otra revisión automática comprueba que cada afirmación tiene fuente y una persona aprueba cada vídeo antes de publicarlo. La voz es sintética.
 
 ## Cómo corregir un error
-Si crees que un medio está mal clasificado o que un vídeo contiene un error, escríbenos a [CORREO DE CONTACTO\]. Respondemos lo antes posible y, si hay un error, lo corregimos y lo indicamos públicamente.
+Si crees que un medio está mal clasificado o que un vídeo contiene un error, escríbenos a fwd.contact@proton.me. Respondemos lo antes posible y, si hay un error, lo corregimos y lo indicamos públicamente.
 
 ## Medios y clasificación
 La lista completa está disponible en [lista completa de medios](medios.html).
